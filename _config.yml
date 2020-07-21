@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "병찡"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "공대생 잡지식 정리 블로그 "#"I am an **amazing** person."
   location         : "Seoul, Korea"
