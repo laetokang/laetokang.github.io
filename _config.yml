@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "강병하"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Information Statistics B.C ~2019.02  Industrial Management Engineering M.S/Ph.D 2020.03 ~ "
+  bio              : "Information Statistics B.C ~2019.02 <br/> Industrial Management Engineering M.S/Ph.D 2020.03 ~ "
   location         : "Seoul, Korea"
   email            : "kbh0287@korea.ac.kr"
   links:
