@@ -95,8 +95,7 @@ analytics:
 author:
   name             : "병찡"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공대생 잡지식 정리 블로그 "
-                     "AI, ML, DL, Data Science, Big Data"
+  bio              : "AI, 머신러닝, 딥러닝"
   location         : "Seoul, Korea"
   email            : "kbh0287@korea.ac.kr"
   links:
