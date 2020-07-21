@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Title"
+title                    : "*Laeto's blog*"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : #""
-description              : #""
+description              : "인공지능을 공부하고 있는 28살입니다."
 url                      : "https://laetokang.github.io/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,8 @@ analytics:
 author:
   name             : "강병하"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "AI, 머신러닝, 딥러닝"
+  bio              : "Information Statistics B.C ~2019.02
+                      Industrial Management Engineering M.S/Ph.D 2020.03 ~ "
   location         : "Seoul, Korea"
   email            : "kbh0287@korea.ac.kr"
   links:
